@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haldaraiindia" alt="haldaraiindia" /></a> </p>
 
-- 🌱 I’m currently learning **Html,Js,CSS,php,Py,Ts**
+- 🌱 I’m currently learning : **HTML,JS,CSS,PHP,PY,TS**
 
-- 📫 How to reach me **haldarai@zohomail.com**
+- 📫 How to reach me : **haldarai@zohomail.com**
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HaldarAi.in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haldarai@zohomail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
