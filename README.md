@@ -10,8 +10,8 @@
 - 📫 How to reach me **haldarai@zohomail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/haldarai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haldarai.in" height="30" width="40" /></a>
+<p [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HaldarAi.in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haldarai@zohomail.com) 
+ /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
